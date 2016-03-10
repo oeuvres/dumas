@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Les Trois Mousquetaires</title>
-        <author>Dumas, Alexandre (1802-1870)</author>
+        <author key="Dumas, Alexandre (1802-1870)">Alexandre Dumas</author>
       </titleStmt>
       <sourceDesc>
         <bibl>
@@ -25,11 +25,6 @@
   </teiHeader>
   <text>
     <body>
-      <p>
-        <anchor xml:id="intro"/>
-      </p>
-      <p/>
-      <p/>
       <div>
         <head>INTRODUCTION</head>
         <p>Il y a un an à peu près, qu’en faisant à la Bibliothèque royale des recherches pour mon histoire de Louis XIV, je tombai par hasard sur les Mémoires de M. d’Artagnan, imprimés – comme la plus grande partie des ouvrages de cette époque, où les auteurs tenaient à dire la vérité sans aller faire un tour plus ou moins long à la Bastille – à Amsterdam, chez Pierre Rouge. Le titre me séduisit : je les emportai chez moi, avec la permission de M. le conservateur ; bien entendu, je les dévorai.</p>
@@ -9017,7 +9012,7 @@
         <p>Planchet obtint de Rochefort le grade de sergent dans les gardes.</p>
         <p>M. Bonacieux vivait fort tranquille, ignorant parfaitement ce qu’était devenue sa femme et ne s’en inquiétant guère. Un jour, il eut l’imprudence de se rappeler au souvenir du cardinal ; le cardinal lui fit répondre qu’il allait pourvoir à ce qu’il ne manquât jamais de rien désormais.</p>
         <p>En effet, le lendemain, M. Bonacieux, étant sorti à sept heures du soir de chez lui pour se rendre au Louvre, ne reparut plus rue des Fossoyeurs ; l’avis de ceux qui parurent les mieux informés fut qu’il était nourri et logé dans quelque château royal aux frais de sa généreuse Éminence.</p>
-        <p rend="center noindent">FIN</p>
+        <trailer>FIN</trailer>
       </div>
     </body>
   </text>
