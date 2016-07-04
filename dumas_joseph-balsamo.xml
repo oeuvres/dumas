@@ -36,7 +36,7 @@
   <text>
     <body>
       <div><head>Première partie</head>
-        <div>
+        <div type="chapter">
           <head>Introduction I. Le Mont-Tonnerre</head>
           <p>Sur la rive gauche du Rhin, à quelques lieues de la ville impériale de Worms, vers l’endroit où prend sa source la petite rivière de Selz, commencent les premiers chaînons de plusieurs montagnes dont les croupes hérissées paraissent s’enfuir vers le nord, comme un troupeau de buffles effrayés qui disparaîtrait dans la brume.</p>
           <p>Ces montagnes qui, dès leur talus, dominent déjà un pays à peu près désert, et qui semblent former un cortège à la plus haute d’entre elles, portent chacune un nom expressif qui désigne une forme ou rappelle une tradition : l’une est la Chaise du Roi, l’autre la Pierre des Eglantiers, celle-ci le Roc des Faucons, celle-là la Crête du Serpent.</p>
@@ -95,7 +95,7 @@
           <p>Alors le voyageur se sentit rapidement entraîné pendant l’espace de cent toises.</p>
           <p>Soudain la main quitta la sienne, le bandeau s’envola de son front, et l’inconnu s’arrêta : il était arrivé au sommet du Mont-Tonnerre.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Introduction II. Celui qui est</head>
           <p>Au milieu d’une clairière formée par des bouleaux chauves de vieillesse, s’élevait le rez-de-chaussée d’un de ces châteaux en ruines que les seigneurs féodaux semèrent jadis dans l’Europe au retour des croisades.</p>
           <p>Les porches sculptés de fins ornements, et dont chaque cavité, au lieu de la statue, mutilée et précipitée au pied de la muraille, recelait une touffe de bruyères ou de fleurs sauvages, découpaient sur un ciel blafard leurs ogives dentelées par les éboulements.</p>
@@ -274,7 +274,7 @@
           <p>– Oui, dirent les fantômes en se prosternant.</p>
           <p>– Parlez, maître, dirent le président et les cinq chefs, le front incliné vers la terre ; parlez, et nous obéirons.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Introduction III. L P D</head>
           <p>Il se fit un silence de quelques secondes, pendant lequel l’inconnu parut recueillir toutes ses pensées. Puis au bout d’un instant :</p>
           <p>– Seigneurs, dit-il, vous pouvez déposer les épées qui fatiguent inutilement vos bras et me prêter une oreille attentive ; car vous aurez beaucoup à apprendre dans le peu de paroles que je vais vous adresser.</p>
@@ -22197,7 +22197,7 @@
           <p>Le capitaine de l’<hi rend="i">Adonis</hi> échangea un signal avec ce bâtiment et, rassuré, en apparence du moins, il continua sa route vers l’occident, et se perdit bientôt dans les ombres de la nuit.</p>
           <p>Ce ne fut que le lendemain que l’on s’aperçut qu’un passager manquait à bord.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Épilogue</head>
           <p>Le 9 mai de l’an 1774, à huit heures du soir, Versailles présentait le plus curieux et le plus intéressant spectacle.</p>
           <p>Depuis le premier jour du mois, le roi Louis XV, atteint d’une maladie terrible dont les médecins n’osaient lui avouer d’abord la gravité, gardait le lit et commençait à chercher des yeux autour de lui la vérité ou l’espérance.</p>

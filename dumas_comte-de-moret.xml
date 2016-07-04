@@ -34,7 +34,7 @@
     <body>
       <div>
         <head>Premier volume</head>
-        <div type="chapter" xml:id="_toc144">
+        <div type="chapter">
           <head>Chapitre I<hi rend="sup">er</hi>. L’hôtellerie de la <hi rend="i">Barbe Peinte</hi>.</head>
           <p>Le voyageur qui, pour ses affaires ou pour son plaisir, venait, vers la fin de l’an de grâce 1628, passer quelques jours dans la capitale du Royaume des Lys, comme on disait poétiquement à cette époque, pouvait avec certitude s’arrêter, recommandé ou non, à l’hôtellerie le la<hi rend="i"> Barbe Peinte</hi>, située rue de l’<hi rend="i">Homme armé</hi> ; il était, sûr d’y trouver, chez maître Soleil, bon visage, bonne table et bon gîte.</p>
           <p>Il n’y avait point à s’y tromper d’ailleurs ; à part un ignoble cabaret qui faisait le coin de la rue Sainte-Croix-de-la-Bretonnerie, et qui, remontant au plus obscur moyen-âge, avait, par son enseigne, représentant un homme armé, donné son nom à cette ruelle, qui ne compte encore aujourd’hui que cinq numéros impairs et quatre numéros pairs, l’hôtellerie dans laquelle nous allons introduire nos lecteurs tenait une place trop importante, et attirait les chalands par une trop majestueuse inscription pour qu’un voyageur, quel qu’il fût, eût l’idée d’aller plus loin, une fois qu’il était arrivé en face d’elle.</p>
@@ -101,7 +101,7 @@
           <p>– À l’<hi rend="i">avoir</hi> – murmura le bravo – voilà un mot qui sent son marchand d’une lieue ! Il est vrai que ces Florentins sont tous marchands, et que leurs ducs eux-mêmes font l’usure, ni plus ni moins que des juifs de Francfort ou des Lombards de Milan ; mais, comme le disait notre hôte, les temps sont durs, et l’on ne peut pas toujours choisir ses clients.</p>
           <p>Pendant ce temps, maître Soleil se retirait, en faisant révérences sur révérences, et en jetant sur son hôte, qui trouvait des seigneurs payant si largement ses dettes, des regards de profonde admiration.</p>
         </div>
-        <div xml:id="_toc267">
+        <div type="chapter">
           <head>II. Ce qui advient de la proposition faite par l’inconnu à maitre Étienne Latil.</head>
           <p>L’inconnu suivit maître Soleil des yeux jusqu’à ce que la porte se fût refermée sur lui, et alors, s’assurant qu’il était bien seul avec Étienne Latil :</p>
           <p>– Et maintenant, dit-il, que vous savez n’avoir plus affaire à un croquant, êtes-vous disposé, mon cher monsieur, à aider un cavalier généreux à se débarrasser d’un rival qui l’importune ?</p>
@@ -193,7 +193,7 @@
           <p>À peine le gentilhomme bossu avait-il fait cet appel, que trois hommes qui s’étaient arrêtés, attendant leur quatrième compagnon derrière la barrière de la rue de l’Homme-Armé, se précipitèrent dans la salle basse, et attaquèrent le malheureux Latil, qui, se retournant pour leur faire face, ne put parer la botte que lui porta, en se fendant jusqu’aux épaules, son premier adversaire ; et, comme en même temps un des assaillants le frappait du côté opposé, il reçut à la fois deux effroyables coups d’épée, dont l’un, entrant par la poitrine, lui sortait par le dos, et dont l’autre, entrant par le dos, lui sortait par la poitrine.</p>
           <p>Latil tomba tout d’une pièce sur le carreau.</p>
         </div>
-        <div xml:id="_toc446">
+        <div type="chapter">
           <head>III. Où le lecteur commence à s’expliquer la haine que le gentilhomme bossu portait au comte de Moret, et ce qu’il en advint.</head>
           <p>Quelques instants après qu’Étienne Latil, laissant tomber son épée, s’était affaissé sur lui-même, rendant le sang par ses deux terribles blessures, nous retrouvons le gentilhomme bossu et ses trois compagnons à quelque distance de la rue de l’Homme-Armé. Assis sur une borne, l’œil sombre et la figure contractée, le premier adversaire du spadassin semblait une de ces figures fantastiques que l’imagination vagabonde des architectes du quatrième siècle sculptait à l’angle des maisons.</p>
           <p>Devant lui une espèce d’athlète de cinq pieds six pouces de haut, lui parlait les bras croisés.</p>
@@ -277,7 +277,7 @@
           <p>Et tandis qu’ils emportaient le plus doucement possible le marquis Pisani chez sa mère, Souscarrières disparaissait au coin de la rue des Orties et de la rue Fromenteau, en disant :</p>
           <p>– Ces damnés bossus, je ne sais pas ce qui les enrage contre moi ! voilà le troisième auquel je suis obligé de passer mon épée au travers du corps, pour me débarrasser de lui !</p>
         </div>
-        <div xml:id="_toc609">
+        <div type="chapter">
           <head>IV. L’hôtel de Rambouillet.</head>
           <p>Le célèbre hôtel Rambouillet était situé entre l’église Saint-Thomas-du-Louvre, bâti vers la fin du douzième siècle, sous l’invocation de Saint-Thomas, martyr, et l’hôpital des Quinze-Vingts, fondé sous le règne de Louis IX, à son retour d’Égypte, en faveur de trois cents, ou, comme on disait alors, de « quinze-vingts » gentilshommes, à qui les Sarrazins avaient crevé les yeux.</p>
           <p>La marquise de Rambouillet, qui l’avait fait bâtir, et nous allons dire comment tout à l’heure – était née en 1588, – c’est-à-dire l’année où le duc de Guise et son frère furent assassinés aux États de Blois, par ordre de Henri III. – Elle était la fille de Jean de Vivone, marquis de Pisani, et de Julie Savelli, dame romaine de l’illustre famille des Savelli, qui a donné deux papes : Honoré III et Honoré IV, à la chrétieneté – et une sainte à l’Église : sainte Lucine.</p>
@@ -334,7 +334,7 @@
           <p>Et, au mépris de sa dignité, prenant la serviette aux mains du domestique et la mettant sur son bras, le digne sommelier se tint debout derrière les convives et les servit jusqu’à la fin du souper.</p>
           <p>Et maintenant que nous avons fait connaissance avec les maîtres, les commensaux et les serviteurs de l’hôtel Rambouillet, introduisons nos lecteurs dans le susdit hôtel, un soir où nous y verrons les principales célébrités de l’époque.</p>
         </div>
-        <div xml:id="_toc716">
+        <div type="chapter">
           <head>V. Ce qui se passait à l’hôtel Rambouillet, au moment où Souscarrières se débarrassait de son troisième bossu.</head>
           <p>Or, pendant cette soirée du 5 décembre 1628, où nous avons ouvert dans l’hôtellerie de la <hi rend="i">Barbe peinte</hi> le premier chapitre de ce livre, toutes les illustrations littéraires de l’époque, tout ce qui formait cette société, qui plus tard tomba dans le ridicule, et que ridiculisa Molière, était rassemblé dans l’hôtel de la marquise, non point comme visiteurs ordinaires, familiers de la maison, mais comme invités, chacun d’eux ayant reçu un billet de M<hi rend="sup">me</hi> de Rambouillet qui lui annonçait qu’il y avait chez elle assemblée extraordinaire.</p>
           <p>Aussi n’était-on pas venu, on était accouru.</p>
@@ -529,7 +529,7 @@
           <p>Étienne Latil, que l’on croyait mort, et que l’on avait couché sur une table en attendant que l’on cousît son linceul et qu’on eût assemblé les planches de sa bière, fit un soupir, ouvrit les yeux, et murmura d’une voix faible, mais parfaitement intelligible, ces deux mots :</p>
           <p>– J’AI SOIF ! ».</p>
         </div>
-        <div xml:id="_toc1033">
+        <div type="chapter">
           <head>VI. Marina et Jaquelino.</head>
           <p>Quelques minutes avant que Latil ne manifestât son existence par les deux mots qu’en général prononce tout blessé revenant à la vie, et qui d’ailleurs faisaient en première ligne partie du répertoire de notre spadassin, un jeune homme s’était présenté à l’hôtel de la <hi rend="i">Barbe peinte</hi>, et s’était informé si la chambre n. 13, située au premier étage, n’était point occupée par une paysanne des environ de Paris, nommée Marina. Elle était, avait-il ajouté, reconnaissable à ses beaux cheveux et à ses beaux yeux noirs, que faisait valoir le cacolet ponceau qui devait leur servir de cadre, et à sa mise tout entière qui rappelait celle de ces âpres montagnes de Navarre que Henri IV avait, tête et pieds nus, tant de fois escaladées tout enfant.</p>
           <p>M<hi rend="sup">me</hi> Soleil, avec un charmant sourire, laissa au jeune homme tout le temps de s’informer, car sans doute lui plaisait-il de regarder dans tous ses détails cette tête juvénile ; après quoi sa réponse, accompagnée d’un coup d’œil d’intelligence, fut que la jeune paysanne, désignée sous le nom de Marina, était dans la chambre indiquée et attendait depuis une demi-heure à peu près.</p>
@@ -656,7 +656,7 @@
           <p>– Le comte de Moret ! murmura le blessé, en se laissant retomber sur la table.</p>
           <p>Quant au capucin, dès les premiers pas que le faux Jaquelino avait faits dans la chambre, il avait vivement tiré son capuchon sur son visage, comme s’il eût craint d’être connu par lui.</p>
         </div>
-        <div xml:id="_toc1275">
+        <div type="chapter">
           <head>VII. Escaliers et corridors.</head>
           <p>En sortant de l’hôtellerie de la <hi rend="i">Barbe peinte</hi>, le comte de Moret, dont nous n’avons plus besoin de maintenir l’incognito, descendit la rue de l’Homme-Armé, tourna à droite, prit la rue des Blancs-Manteaux, et alla frapper à l’hôtel du duc de Montmorency, Henri II du nom, qui s’ouvrait par deux portes, l’une donnant dans la rue des Blancs-Manteaux, l’autre donnant sur la rue Sainte-Avoye.</p>
           <p>Sans doute, le fils de Henri IV avait de grandes familiarités dans la maison, car, aussitôt qu’il eut été reconnu, un jeune page d’une quinzaine d’années saisit un chandelier à quatre branches, alluma les cires et marcha devant lui.</p>
@@ -808,7 +808,7 @@
           <p>– Ouvrant alors une porte perdue dans la tapisserie, elle y poussa le comte et entra après lui.</p>
           <p>Il était temps ! Comme la porte du cabinet venait de se refermer, celle donnant sur le grand escalier s’ouvrit, et, précédé de deux pages portant des flambeaux, suivi de Baradas et de Saint-Simon, ses deux favoris, derrière lesquels marchait Beringhen, son valet de chambre, le roi Louis XIII parut, et faisant signe à sa suite de l’attendre, entra chez la reine.</p>
         </div>
-        <div xml:id="_toc1567">
+        <div  type="chapter">
           <head>VIII. Sa majesté le roi Louis XIII.</head>
           <p>Nous croyons que le moment est arrivé de présenter le roi Louis XIII à nos lecteurs, qui nous pardonneront, je l’espère, de consacrer un chapitre à cette étrange personnalité.</p>
           <p>Le roi Louis XIII, né le jeudi 27 septembre 1601, et, par conséquent, âgé, à l’époque à laquelle nous sommes arrivés, de vingt-sept ans et trois mois, était une longue et triste figure, au teint brun et aux moustaches noires. Pas un trait en lui qui rappelât Henri IV, ni dans la physionomie, ni dans le caractère ; rien de français non plus, pas de gaieté, pas même de jeunesse. Les Espagnols racontaient avec une certaine probabilité, qu’il était fils de Virginio Orsini, duc de Bracciano, cousin de Marie de Médicis, et, en effet, à son départ pour la France, Marie de Médicis, déjà âgée de 27 ans, avait reçu de son oncle, le cardinal Ferdinand, qui, pour monter sur le trône de Toscane, avait empoisonné son frère François et Bianca Capello, Marie de Médicis avait reçu, disons-nous, cet avis :</p>
@@ -902,7 +902,7 @@
           <p>– La reine est, en effet, très-souffrante, dit-il. Suivez-moi, messieurs !</p>
           <p>Et, dans le même ordre qu’il était venu, le cortège se remit en marche pour rentrer chez le roi.</p>
         </div>
-        <div xml:id="_toc1731">
+        <div  type="chapter">
           <head>IX. Ce qui se passa dans la chambre à coucher de la reine Anne d’Autriche après que le roi louis xiii en fut sorti.</head>
           <p>À peine le bruit des pas se fut-il perdu dans le lointain de la galerie, et les derniers reflets des torches se furent-ils éteints en tremblant le long des parois des murailles, que la porte du cabinet où s’était réfugiés le comte de Moret et sa conductrice s’entrouvrit doucement, et que la tête de la jeune femme se glissa par l’entre-bâillement de la porte.</p>
           <p>Alors, voyant que tout était rentré dans le silence et l’obscurité, elle se hasarda à sortir tout à fait, et jeta un regard dans la galerie à l’extrémité de laquelle elle vit disparaître les dernières lueurs des torches des deux pages.</p>
@@ -949,7 +949,7 @@
           <p>– Oui, Madame, répondit le comte, et attendant les ordres de Votre Majesté.</p>
           <p>– Entrez, donc, alors, car nous sommes heureux de vous recevoir.</p>
         </div>
-        <div xml:id="_toc1820">
+        <div  type="chapter">
           <head>X. Les lettres qu’on lit devant témoins et les lettres qu’on lit tout seul.</head>
           <p>Le comte de Moret secoua sa jeune et gracieuse tête, comme pour en faire tomber l’incessante préoccupation à laquelle il était en proie, et poussant la porte devant lui, il se trouva sur le seuil de la chambre accoucher d’Anne d’Autriche.</p>
           <p>Son premier regard, nous devons l’avouer, malgré le haut rang ; des personnes qui se trouvaient, dans cette chambre, fut pour y chercher le guide charmant qui l’y avait conduit et qui, après l’y avoir conduit, l’avait quitté sans qu’il pût même voir son visage. Mais son regard eut beau plonger dans les lointains les plus obscurs de l’appartement, force lui fut de revenir au premier plan et de fixer ses yeux et son esprit sur le groupe placé dans la lumière.</p>
@@ -1049,7 +1049,7 @@
           <p>– Ô Buckingham ! Buckingham !</p>
           <p>Et quelques sanglots étouffés troublèrent seuls, à partir de ce moment, le silence de la chambre royale.</p>
         </div>
-        <div xml:id="_toc2014">
+        <div  type="chapter">
           <head>XI. Le sphinx rouge.</head>
           <p>Il existe à la galerie du Louvre un portrait du peintre janséniste Philippe de Champagne, représentant <hi rend="i">au vrai</hi>, comme on disait alors, la fine, vigoureuse et sèche figure du cardinal de Richelieu.</p>
           <p>Tout au contraire des Flamands ses compatriotes, ou des Espagnols ses maîtres, Philippe de Champagne est avare de cette étincelante couleur que broient sur leur palette et répandent sur leurs toiles les Rubens et les Murillo ; c’est qu’en effet, pousser dans un flot de lumière le sombre ministre constamment perdu dans la demi-teinte de sa politique, dont la devise était un aigle dans les nuages, <hi rend="i">Aquila in nubibus</hi>, c’eût été flatter l’art peut-être, mais à coup sûr mentir à la vérité.</p>
@@ -1179,7 +1179,7 @@
           <p>Arrivé à la porte, le capitaine des gardes se trouva face à face avec un nouvel arrivant. À sa vue, il s’effaça avec tant de respect et de diligence qu’il était évident qu’il cédait le pas à un éminent personnage.</p>
           <p>Et en effet, au même moment, dans l’encadrement de la porte parut le fameux capucin du Tremblay, connu sous le nom de frère Joseph, ou d’Éminence Grise !</p>
         </div>
-        <div xml:id="_toc2267">
+        <div  type="chapter">
           <head>XII. L’éminence grise.</head>
           <p>Le père Joseph était si bien connu pour être la seconde âme du cardinal ; qu’en le voyant paraître, les plus familiers serviteurs du ministre se retiraient à l’instant même, et que la présence de l’Éminence Grise dans le cabinet de Richelieu semblait avoir le privilège de faire le vide autour d’elle.</p>
           <p>M<hi rend="sup">me</hi> de Combalet, comme les autres, subissait cette influence et n’échappait point au malaise qu’inspirait cette silencieuse apparition ; en apercevant le père Joseph, elle vint donc présenter son front à baiser au cardinal en lui disant :</p>
@@ -1318,7 +1318,7 @@
           <p>En ce moment, le valet de chambre, Charpentier, ouvrait la porte et annonçait :</p>
           <p>– Messire Pierre de Bellegarde, marquis de Montbrun, seigneur de Souscarrières !</p>
         </div>
-        <div xml:id="_toc2540">
+        <div  type="chapter">
           <head>XIII. Où M<hi rend="sup">me</hi> Cavois devient l’associée de M. Michel.</head>
           <p>Celui qui se faisait annoncer avec ce pompeux étalage de titres, n’était autre, nos lecteurs le savent ; que le duelliste Soucarrières, dont nous avons raconté les prouesses au commencement de ce volume. Souscarrières entra d’un air dégagé et salua Son Éminence avec une désinvolture que, dans sa position, on pourrait qualifier d’effronterie.</p>
           <p>Le cardinal eût l’air de chercher des yeux, comme si Souscarrières avait amené une suite avec lui.</p>
@@ -1416,7 +1416,7 @@
           <p>Quant au cardinal ; comme il avait la conviction qu’il venait de recruter ses forces d’un puissant allié, sa bonne humeur lui était revenue, et ce fut de sa voix la plus aimable qu’il cria :</p>
           <p>– Madame Cavois ! eh ! madame Cavois, venez donc.</p>
         </div>
-        <div xml:id="_toc2731">
+        <div  type="chapter">
           <head>XIV. Où le cardinal commence à voir clair sur son échiquier.</head>
           <p>À peine cet appel était-il fait, que le cardinal vit entrer une petite femme de 25 à 26 ans, leste, pimpante, le nez en l’air ; et qui ne paraissait nullement intimidée de se trouver en sa présence.</p>
           <p>– Vous m’avez appelée, monseigneur, dit-elle, prenant la parole et avec un accent languedocien des plus prononcés, me voilà.</p>
@@ -1522,9 +1522,9 @@
           <p rend="center">FIN DU PREMIER VOLUME.</p>
         </div>
       </div>
-      <div xml:id="_toc2933">
+      <div>
         <head>Deuxième volume.</head>
-        <div type="chapter" xml:id="_toc2934">
+        <div type="chapter">
           <head>Chapitre premier. État de l’Europe en 1628.</head>
           <p>Arrivés au point où nous en sommes, nous croyons qu’il n’y aurait point de mal à ce que le lecteur, comme le cardinal de Richelieu, vît un peu clair sur son échiquier.</p>
           <p>Le <hi rend="i">fiat lux</hi> nous sera plus facile à faire, à nous, après deux cent trente-sept ans, qu’au cardinal, qui, entouré de mille trames diverses, rebondissant de conspirations en conspirations, ne se dégageant d’un complot que pour retomber dans un autre, trouvait toujours un voile étendu entre lui et les horizons qu’il avait besoin de découvrir, et qui, des feux follets flottant sur les intérêts de chacun, était forcé de faire jaillir une clarté générale.</p>
@@ -1592,7 +1592,7 @@
           <p>On se demande quel est le philtre qu’il lui a fait boire, le talisman qu’il lui a pendu au cou, l’anneau enchanté qu’il lui a passé au doigt ! Son charme, c’est sa caisse toujours pleine d’or, et toujours ouverte pour le roi. Concini l’avait tenu dans la misère, Marie de Médicis dans l’indigence, Louis XIII n’avait jamais eu d’argent, le magicien toucha la terre de sa baguette, et le Pactole jaillit aux yeux du roi, qui dès lors eut toujours de l’argent, même quand Richelieu n’en avait pas.</p>
           <p>Dans l’espérance que maintenant tout est aussi clair sur l’échiquier de nos lecteurs que sur celui de Richelieu, nous allons reprendre notre récit où nous l’avons laissé à la fin du premier volume.</p>
         </div>
-        <div xml:id="_toc3062">
+        <div  type="chapter">
           <head>II. Marie de Gonzague.</head>
           <p>Pour arriver au résultat que nous venons de promettre, c’est-à dire pour reprendre notre récit où nous l’avons abandonné à la fin de notre dernier volume, il faut que nos lecteurs aient la bonté d’entrer avec nous à l’hôtel de Longueville, qui, adossé à celui de la marquise de Rambouillet, coupe avec lui, en deux, le terrain qui s’étend de la rue Saint-Thomas-du-Louvre à la rue Saint-Nicaise, c’est-à-dire est situé comme l’hôtel Rambouillet, entre l’église Saint-Thomas-du-Louvre et l’hôpital des Quinze-Vingts ; seulement son entrée est rue Saint-Nicaise, juste en face des Tuileries, tandis que l’entrée de l’hôtel de la marquise, est, nous l’avons dit, rue Saint-Thomas-du-Louvre.</p>
           <p>Huit jours se sont passés depuis les événements qui ont fait, jusqu’à présent, le sujet de notre récit.</p>
@@ -1669,7 +1669,7 @@
           <p>Toutes les conversations s’arrêtèrent ; ceux qui étaient debout restèrent debout, ceux qui étaient assis se levèrent, la princesse Marie elle-même.</p>
           <p>– Bon ! dit M<hi rend="sup">me</hi> de Combalet, confidente du cardinal, en se levant à son tour et en saluant plus respectueusement que personne, voici la comédie qui commence ; ne perdons pas un mot de ce qui se dira sur le théâtre, ni, s’il est possible, de ce qui se fera dans les coulisses.</p>
         </div>
-        <div xml:id="_toc3199">
+        <div  type="chapter">
           <head>III. Le commencement de la comédie.</head>
           <p>Et, en effet, c’était la première fois que publiquement, et au milieu d’une grande soirée, le duc d’Orléans se présentait chez la princesse Marie de Gonzague.</p>
           <p>Il était facile de voir qu’il avait donné à sa toilette un soin tout particulier. Il était vêtu d’un pourpoint de velours blanc, passementé d’or, avec le manteau pareil, doublé de satin cerise ; il portait des chausses de velours cerise, de la même couleur que la doublure de son manteau ; il était coiffé, ou plutôt il tenait à la main, car, contre son habitude, il s’était découvert, et tout le monde le remarqua, il tenait à la main un chapeau de feutre blanc, avec une ganse de diamants et des plumes cerise. Enfin il était chaussé de bas de soie et de souliers de satin blanc ; des flots de rubans aux deux couleurs adoptées par lui sortaient, abondants et pleins d’élégance, de toutes les ouvertures de son pourpoint et à l’endroit des jarretières.</p>
@@ -1773,7 +1773,7 @@
           <p>Aux premières paroles qu’avait prononcées M<hi rend="sup">lle</hi> de Lautrec, le comte de Moret avait tressailli jusqu’au fond du cœur, et, saisissant la main de M<hi rend="sup">me</hi> de Fargis et la secouant avec force :</p>
           <p>– Oh ! murmura-t-il, la voilà ! la voilà ! c’est elle que j’aime !</p>
         </div>
-        <div xml:id="_toc3402">
+        <div  type="chapter">
           <head>IV. Isabelle et Marina.</head>
           <p>Comme l’avait préjugé le comte de Moret, sans la connaître, sans savoir son nom, mais par cette merveilleuse intuition de la jeunesse, qui fait le sentiment plus infaillible que les sens, M<hi rend="sup">lle</hi> Isabelle de Lautrec était parfaitement belle, mais d’une beauté toute différente de celle de la princesse Marie.</p>
           <p>La princesse Marie était brune avec des yeux bleus ; Isabelle de Lautrec était blonde avec des yeux, des cils et des sourcils noirs. Sa peau, d’une blancheur éclatante, fine et pleine de transparence, avait la nuance délicate de la feuille de rose ; son cou, un peu long, avait l’ondulation charmante que l’on trouve dans les femmes de Pérugin et de la première manière de son élève Sanz’o ; ses mains, longues, fines et blanches, semblaient moulées sur les mains de la Ferronnière de Vinci ; sa robe traînante ne permettait pas de voir même l’ombre de ses pieds ; mais on devinait à l’élancement, à la flexibilité et à la finesse de sa taille, on devinait que le pied devait être en harmonie avec la main, c’est-à-dire fin, délicat et cambré.</p>
@@ -1826,7 +1826,7 @@
           <p>– Par ma foi ! dit le comte de Moret, en se détachant de la muraille où il semblait incrusté, vive la France pour les amours ! il y a de la variété entre eux, au moins ! j’y suis revenu depuis quinze jours à peine, et me voilà engagé à trois personnes, quoique réellement je n’en aime qu’une seule ; mais Ventre-saint-gris, on n’est pas fils de Henri IV pour rien, et eussé-je six amours au lieu, de trois, eh bien ! on tâchera de leur faire face !</p>
           <p>Ivre, ébloui, trébuchant, il gagna le perron, appela ses porteurs, monta dans sa chaise à son tour, et, rêvant à son triple amour, se fit conduire à l’hôtel Montmorency.</p>
         </div>
-        <div xml:id="_toc3503">
+        <div  type="chapter">
           <head>V. Où monseigneur Gaston, comme le roi Charles IX, joue son petit rôle.</head>
           <p>En voyant la douairière de Longueville, la princesse Marie et Mgr Gaston sortir par la même porte, appelés par le même huissier, le reste de la société pensa bien qu’il s’était passé quelque chose d’extraordinaire, et, soit discrétion, soit que onze heures qui venaient de sonner indiquassent le moment de la retraite, après avoir attendu un certain nombre de minutes, se retira.</p>
           <p>M<hi rend="sup">me</hi> de Combalet se retirait comme les autres, lorsque l’huissier, qui semblait guetter son passage dans le corridor sombre dont nous avons déjà parlé, lui dit à voix basse :</p>
@@ -1891,7 +1891,7 @@
           <p>– Merci, madame, répondit M<hi rend="sup">me</hi> de Combalet, et j’apprécie tout l’honneur qu’il y aurait pour moi à devenir la femme d’un prince du sang ; mais en revêtant ma robe de veuve j’ai fait deux serments : le premier de ne me remarier jamais, le second de me dévouer tout entière à mon oncle. Je tiendrai mes deux serments, madame, sans autre regret, croyez-le bien, que celui que j’éprouverais à voir la combinaison de Monsieur manquer à cause de moi.</p>
           <p>Et, saluant M<hi rend="sup">me</hi> de Longueville, elle prit, avec le plus gracieux, mais en même temps avec le plus calme sourire du monde, congé de l’ambitieuse douairière, qui ne comprenait pas qu’il y eût un serment qui tînt devant la perspective orgueilleuse de devenir comtesse de Soissons.</p>
         </div>
-        <div xml:id="_toc3627">
+        <div  type="chapter">
           <head>VI. Ève et le serpent.</head>
           <p>Au Louvre ! avait dit, on se le rappelle, M<hi rend="sup">me</hi> de Fargis. Et, obéissant à cet ordre, ses porteurs l’avaient déposée devant l’escalier de service, conduisant à la fois chez le roi et chez la reine, et qui s’ouvrait, pour le remplacer, à l’heure où se fermait le grand escalier, c’est-à-dire à dix heures du soir.</p>
           <p>M<hi rend="sup">me</hi> de Fargis reprenait, ce soir-là même, sa semaine près de la reine.</p>
@@ -1998,7 +1998,7 @@
           <p>– En vérité, elle vous répond avec le même calme que si elle ne vous disait pas des choses énormes. Fargis, viens m’aider à me mettre au lit, ma fille. Ô mon Dieu, que tu vas me faire faire de sots rêves avec tous tes contes.</p>
           <p>Et la reine, se levant cette fois, passa dans la chambre à coucher, plus nonchalante encore et plus langoureuse que d’habitude, appuyée à l’épaule de sa conseillère Fargis, que l’on pourra accuser de bien des choses, mais pas certainement d’égoïsme dans ses amours.</p>
         </div>
-        <div xml:id="_toc3836">
+        <div  type="chapter">
           <head>VII. Où le cardinal utilise pour son compte le brevet qu’il a donné à Souscarrières.</head>
           <p>Prévenu comme il l’était par le billet trouvé sur le médecin Senelle et déchiffré par Rossignol, le cardinal n’avait vu, dans la scène qui s’était passée chez la douairière de Longueville, entre Monsieur, la princesse Marie et Vauthier, scène que lui avait racontée M<hi rend="sup">me</hi> de Combalet, que l’exécution du plan arrêté entre ses ennemis et l’entrée en campagne de Marie de Médicis.</p>
           <p>Marie de Médicis était, en effet, sa plus implacable adversaire. Nous avons dit ailleurs les raisons de cette haine ; et c’était aussi celle dont il avait le plus à craindre, à cause de l’influence qu’elle avait conservée sur son fils, et des moyens ténébreux dont disposait son ministre Bérulle.</p>
@@ -2145,7 +2145,7 @@
           <p>Le cardinal regarda autour de lui, vit un petit flacon qui lui parut devoir renfermer un cordial. Il versa quelques gouttes de la liqueur qu’il contenait dans une petite cuiller, et les fit avaler au blessé, qui rouvrit les yeux et poussa un nouveau soupir, mais d’allégement.</p>
           <p>Le cardinal mit alors le doigt sur sa bouche, pour recommander le silence à Latil, recouvrit sa tête du capuchon de sa robe et sortit.</p>
         </div>
-        <div xml:id="_toc4125">
+        <div  type="chapter">
           <head>VIII. L’<hi rend="i">in pace.</hi></head>
           <p>Il était une heure et demie à peu près, mais l’heure avancée était une raison de plus pour que le cardinal poursuivît ses investigations. Il craignait, s’il se présentait pendant le jour à la porte de ce couvent infâme où l’on entassait tous les coquins ramassés dans les mauvais lieux de Paris, qu’on eût le temps, lorsqu’on apprendrait le motif de sa visite, de faire disparaître celle qu’il y venait chercher. Il savait quel voile Concini, la reine-mère et d’Épernon avaient essayé d’étendre et même avaient étendu sur ce terrible drame de l’assassinat de Henri IV ; il savait, et nous en avons vu quelque chose dans le chapitre précédent, que les preuves écrites avaient disparu, il craignait que l’on ne fît disparaître les preuves vivantes.</p>
           <p>Latil n’était qu’un fil indicateur que, d’un moment à l’autre, la main de la mort pouvait briser ; il lui fallait cette femme chez laquelle Ravaillac, disait-on, avait vécu six mois, et qui, pour être entrée dans ce secret d’État, était morte ou achevait de mourir dans un <hi rend="i">in pace</hi>, c’est-à-dire dans un de ces tombeaux si vantés par ces admirables tortureurs qu’on appelle les moines et qui essayent de rendre à leur prochain en souffrances physiques les souffrances physiques et morales qu’ils se sont imposées à un âge où parfois ils ne peuvent savoir s’ils auront la force de les supporter.</p>
@@ -2297,7 +2297,7 @@
           <p>En ce moment, le plus grand des deux hommes apporta dans ses bras, comme il eût fait d’un enfant, la prisonnière, privée de tout sentiment, et la déposa, enveloppée dans la robe de moine, à quelque distance du feu, à la place que lui indiquait du doigt le cardinal.</p>
           <p>Puis, saluant respectueusement, comme si connaissant la grandeur du rang, il y ajoutait celle de l’action, il sortit.</p>
         </div>
-        <div xml:id="_toc4423">
+        <div  type="chapter">
           <head>IX. Le récit.</head>
           <p>Le cardinal demeura seul avec cette pauvre créature inanimée, que l’on eût pu croire morte, si des frissonnements nerveux n’eussent agité de temps en temps la robe de gros drap qui l’enveloppait, de telle façon que l’on ne voyait aucune partie de sa personne, mais seulement le relief de son corps, relief qui semblait bien plus celui d’un cadavre que d’une personne vivante.</p>
           <p>Mais peu à peu, la bienfaisante influence du feu se fit sentir, les agitations du froc devinrent plus fréquentes ; deux mains, que l’on eût prises pour celles d’un squelette, si leurs ongles, démesurément longs, n’eussent indiqué qu’elles appartenaient à un corps n’ayant point encore épuisé la somme de ses souffrances en ce monde, sortirent hors des manches, s’allongeant instinctivement vers le feu ; puis, la tête pâle avec les orbites de ses yeux agrandis par la souffrance, bistrée jusqu’au milieu des joues, ses lèvres tirées par en haut et par en bas, laissant voir ses dents serrées, apparut à son tour, roide comme celle d’une tortue sortant de sa carapace. Les jambes se tendirent dans la même direction, laissant voir à l’extrémité de la robe deux pieds de marbre ; puis, par un mouvement d’une roideur tout automatique, le corps se trouva assis, et sourdes comme si elles sortaient de la poitrine d’un trépassé, on entendit ces paroles :</p>
@@ -2440,7 +2440,7 @@
           <p>« Dans la nuit du 13 au 14 décembre, est morte, dans la logette de pierre qui lui avait été bâtie dans la cour du couvent des Filles repenties, et d’où elle n’était pas sortie depuis neuf ans, c’est-à-dire depuis l’arrêt du Parlement qui la condamnait à une détention perpétuelle au pain et à l’eau, la demoiselle Jacqueline le Voyer, dite dame de Coëtman, femme d’Isaac de Varennes, soupçonnée de complicité avec Ravaillac, dans l’assassinat du bon roi Henri IV.</p>
           <p>« Elle a été enterrée la nuit suivante dans le cimetière du couvent. »</p>
         </div>
-        <div xml:id="_toc4704">
+        <div  type="chapter">
           <head>X. Maximilien de Béthune, duc de Sully baron de Rosny.</head>
           <p>Pendant tout le temps que le récit de la dame de Coëtman avait duré, le cardinal avait écouté avec l’attention la plus profonde ce long et douloureux poëme ; mais quoique de chaque mot de la pauvre victime ressortît une preuve morale de la complicité de Concini, de d’Épernon et de la reine-mère dans l’assassinat de Henri IV, aucune preuve matérielle n’avait surgi, visible, éclatante, irréfragable.</p>
           <p>Mais ce qu’il y avait de plus clair que le jour, de plus limpide que le cristal, c’était non seulement l’innocence de la dame de Coëtman, mais encore son dévouement pour empêcher le parricide odieux du 14 mai, dévouement qu’elle avait payé de neuf ans de prison à la Conciergerie, et de neuf ans de sépulcre aux Filles-Repenties.</p>
@@ -2546,7 +2546,7 @@
           <p>– Qui faut-il annoncer ? demandait le valet, qui précédait le visiteur matinal.</p>
           <p>– Annoncez, répondit celui-ci, souriant d’avance de l’effet que cette annonce allait produire, annoncez M. le cardinal de Richelieu !</p>
         </div>
-        <div xml:id="_toc4911">
+        <div  type="chapter">
           <head>XI. Les deux aigles.</head>
           <p>Et, en effet, si jamais annonce produisit un effet inattendu, ce fut celle qui frappa l’oreille de Sully, se retournant pour voir quel était l’importun qui venait le déranger avant le jour.</p>
           <p>Il était occupé à écrire les volumineux mémoires qu’il nous a laissés, et se leva de son fauteuil à l’annonce du valet.</p>
@@ -2652,7 +2652,7 @@
           <p>– Du moment où le duc de Sully a fait serment, dit-il, honneur au serment de Sully ; mais, en vérité, il y a une fatalité sur la France.</p>
           <p>Et, sans même essayer de tenter Sully par une seule parole, il s’inclina profondément devant lui, reçut de la part du vieux ministre un salut poli, mais modéré, et se retira, commençant à douter de cette providence dont le P. Joseph lui avait promis le secours.</p>
         </div>
-        <div xml:id="_toc5118">
+        <div  type="chapter">
           <head>XII. Le cardinal en robe de chambre.</head>
           <p>Le cardinal rentra chez lui, place Royale, vers sept heures du matin, renvoya ses porteurs, qui se déclarèrent bien payés et par conséquent, satisfaits de leur nuit, se coucha deux heures, et vers neuf heures et demie du matin descendit dans son cabinet en pantoufles et en robe de chambre.</p>
           <p>Ce cabinet, c’était l’univers du duc de Richelieu. Il y travaillait douze à quatorze heures par jour ; il y déjeunait avec son confesseur, ses bouffons et ses parasites, souvent même il y dormait sur un grand canapé en forme de lit, sur lequel il se jetait quand la besogne politique donnait par trop. D’habitude il dînait avec sa nièce.</p>
@@ -2825,7 +2825,7 @@
           <p>– La feuille existe, murmura-t-il ; Sully connaît celui qui la tient. Oh ! moi aussi, je le connaîtrai.</p>
           <p>Et comme Bois-Robert rentrait tenant la demoiselle de Gournay par la main, le sourire, hôte inusité de cette sombre physionomie, reparut momentanément sur ses lèvres.</p>
         </div>
-        <div xml:id="_toc5453">
+        <div  type="chapter">
           <head>XIII. La demoiselle de Gournay.</head>
           <p>La demoiselle de Gournay était, comme nous l’avons dit, une vieille fille, née vers le milieu du seizième siècle ; elle était de Picardie et était de bonne maison.</p>
           <p>À l’âge de 19 ans, elle avait lu les <hi rend="i">Essais</hi> de Montaigne, et en étant restée émerveillée, elle avait désiré connaître l’auteur.</p>
@@ -2945,7 +2945,7 @@
           <p>Et il baisa la main de M<hi rend="sup">lle</hi> de Gournay aussi respectueusement que si elle n’eût eu que 25 ans.</p>
           <p>M<hi rend="sup">lle</hi> de Gournay sortit par une porte avec Cavois, et Bois-Robert par l’autre.</p>
         </div>
-        <div xml:id="_toc5688">
+        <div  type="chapter">
           <head>XIV. Le rapport de Souscarrlères.</head>
           <p>Resté seul, le cardinal appela son secrétaire Charpentier et lui demanda sa correspondance du jour. Elle contenait trois lettres importantes :</p>
           <p>Une de Beautru, l’ambassadeur, ou plutôt l’envoyé en Espagne, car jamais Beautru ne fut ambassadeur en titre ; sa position de demi-bouffon à la cour, nous dirions d’homme d’esprit si nous ne craignions pas d’être impertinent pour la haute diplomatie, ne permettant pas qu’on lui donnât le titre d’ambassadeur.</p>
@@ -3069,7 +3069,7 @@
       </div>
       <div>
         <head>Troisième volume</head>
-        <div type="chapter" xml:id="_toc158">
+        <div type="chapter">
           <head>Chapitre I<hi rend="sup">er</hi>. Les lardoires du roi Louis XIII.</head>
           <p>Et maintenant, il faut, pour les besoins de notre récit, que nos lecteurs nous permettent de leur faire faire plus ample connaissance avec le roi Louis XIII, qu’ils ont entrevu à peine pendant cette nuit où, poussé par les pressentiments du cardinal de Richelieu dans la chambre de la reine, il n’y entra que pour s’assurer que l’on n’y tenait point cabale et lui annoncer que, par ordre de Bouvard, il se purgeait le lendemain et se faisait saigner le surlendemain.</p>
           <p>Il s’était purgé, il s’était fait saigner, et n’en était ni plus gai ni plus rouge ; mais tout au contraire, sa mélancolie n’avait fait qu’augmenter.</p>
@@ -3187,7 +3187,7 @@
           <p>Et il se jeta sur une longe de veau, qu’il se mit à transpercer, avec non moins de fureur que si la lardoire était une épée et la longe de veau le cardinal.</p>
           <p>– Ah ! par ma foi, Louis, dit l’Angély, m’est avis que c’est toi cette fois qui es lardé.</p>
         </div>
-        <div xml:id="_toc373">
+        <div  type="chapter">
           <head>II. Pendant que le roi Larde.</head>
           <p>C’étaient ces répliques-là, que son entourage, au reste, ne lui épargnait point, qui mettaient le roi en rage contre son ministre et qui lui faisaient de ces révolutions subites et inattendues qui mettaient incessamment le cardinal à deux doigts de sa perte.</p>
           <p>Si les ennemis de Son Éminence prenaient Louis XIII dans un de ces moments-là, il adoptait avec eux les résolutions les plus désespérées, quitte à ne pas les suivre, et leur faisait les plus belles promesses, quitte à ne point les tenir.</p>
@@ -3289,7 +3289,7 @@
           <p>Et tandis que le roi criait ; – Bouvard ! que l’on m’aille chercher Bouvard ! Bassompierre sortait haussant les épaules, saluant de la main le duc d’Angoulême et le duc de Guise, en murmurant :</p>
           <p>– Lui, le fils de Henri IV ? Jamais !…</p>
         </div>
-        <div xml:id="_toc572">
+        <div  type="chapter">
           <head>III. Le magasin d’Ildefonse Lopez.</head>
           <p>Nos lecteurs se rappelleront sans doute avoir vu dans le rapport de Souscarrières au cardinal que M<hi rend="sup">me</hi> de Fargis et l’ambassadeur d’Espagne, M. de Mirabel, avaient échangé un billet chez le lapidaire Lopez.</p>
           <p>Or ce que ne savait point Souscarrières, c’est que le lapidaire Lopez appartenait corps et âme au cardinal, chose à laquelle il avait tout intérêt, car à son double titre de mahométan et de juif – il passait près des uns pour être juif, et près des autres pour être mahométan – il eût eu grand’peine à se tirer d’affaires sans avanies, malgré le soin qu’il avait de manger ostensiblement du porc tous les jours, pour prouver qu’il n’était sectateur ni de Moïse, ni de Mahomet, qui tous deux défendaient à leurs adeptes la chair du pourceau.</p>
@@ -3478,7 +3478,7 @@
           <p>– Lopez vous regarde, dit-elle, et le tailleur de diamants vous écoute.</p>
           <p>– Madame, dit la reine en haussant la voix, il va être deux heures de l’après-midi ; il faut rentrer au Louvre pour dîner et surtout pour demander des nouvelles de ce pauvre M. Baradas !</p>
         </div>
-        <div xml:id="_toc944">
+        <div  type="chapter">
           <head>IV. Les conseils de l’Angély.</head>
           <p>Le roi Louis XIII avait d’abord, comme on l’a vu, été offensé de l’insolence de son favori, lorsque celui-ci lui avait arraché des mains le flacon d’eau de fleurs d’orangers qu’il lui offrait pour se parfumer, et l’avait jeté à ses pieds. Mais à peine avait-il vu, de la blessure que lui avait faite M. de Bassompierre, couler le sang précieux de son bien-aimé Baradas, que toute sa colère s’était convertie en douleur, et que, se jetant à corps perdu sur lui, il lui avait tiré la lardoire restée dans la blessure, et malgré sa résistance, résistance suscitée non point par le respect, mais par la fureur, il avait, en arguant de ses connaissances en médecine, voulu panser la plaie lui-même.</p>
           <p>Mais la bonté de Louis XIII pour son favori, bonté ou faiblesse qui rappelait celle de Henri III pour ses mignons, avaient fait de celui-ci un enfant gâté.</p>
@@ -3600,7 +3600,7 @@
           <p>– Dès ce soir.</p>
           <p>– Allons donc, sois homme ce soir, et demain tu seras roi.</p>
         </div>
-        <div xml:id="_toc1178">
+        <div  type="chapter">
           <head>V. La confession.</head>
           <p>Le lendemain du jour où le roi Louis XIII, sur les conseils de son fou l’Angély, avait pris la résolution de rendre M. Baradas jaloux, le cardinal de Richelieu expédiait Cavois à l’hôtel Montmorency avec une lettre adressée au prince et conçue en ces termes :</p>
           <p> </p>
@@ -3692,7 +3692,7 @@
           <p>– Mademoiselle, dit le cardinal, avant de vous rendre une réponse, je ne dirai pas définitive, mais détaillée, j’ai besoin de causer avec les deux personnes qui viennent d’arriver. Guillomot, conduisez M<hi rend="sup">lle</hi> de Lautrec chez ma nièce, dans une demi-heure vous entrerez pour demander si je suis libre.</p>
           <p>Et saluant respectueusement M<hi rend="sup">lle</hi> de Lautrec, qui suivit le valet de chambre, il alla ouvrir lui-même la porte de la galerie de tableaux où se promenaient, mais depuis quelques minutes seulement, le duc de Montmorency et le comte de Moret.</p>
         </div>
-        <div xml:id="_toc1354">
+        <div  type="chapter">
           <head>VI. Où M. le cardinal de Richelieu fait une comédie sans le secours de ses collaborateurs.</head>
           <p>Les deux princes n’avaient attendu qu’un instant, et l’on connaissait l’exigence de la multiplicité des affaires dont était chargé le cardinal, pour que, l’attente eût-elle été plus longue, ils eussent eu la susceptibilité d’en témoigner le moindre mécontentement. Sans avoir atteint ce degré suprême auquel il arriva après la fameuses journée baptisée, par l’histoire, la journée des Dupes, il était déjà regardé, sinon de fait, du moins de droit, comme premier ministre ; seulement il est important de dire que dans les questions de paix ou de guerre il n’avait que l’initiative, sa voix et la prépondérance de son génie, éternellement combattu par la haine des deux reines et par une espèce de conseil d’État s’assemblant au Luxembourg, et présidé par le cardinal de Bérulle. Les décisions prises, le roi intervenait, approuvait ou improuvait. C’était sur cette approbation ou improbation, que pesait plus particulièrement tantôt Richelieu, tantôt la reine-mère, selon l’humeur dans laquelle se trouvait Louis XIII.</p>
           <p>Or la grande affaire qui allait se décider dans deux ou trois jours, c’était, non point la guerre d’Italie – elle était arrêtée – Mais c’était le choix du chef qu’on donnerait à cette armée.</p>
@@ -3815,7 +3815,7 @@
           <p>Pendant ce temps, le cardinal, arrivé à son but d’éloigner le fils de Henri IV de la cour et de s’en faire un partisan, se réjouissait, croyant avoir trouvé un dénoûment à son héroï-comédie, sans la participation de ses collaborateurs ordinaires, MM. Desmarets, Rotrou, l’Estoile et Mayret.</p>
           <p>Corneille on se le rappelle, n’avais pas encore eu l’honneur d’être présenté au cardinal.</p>
         </div>
-        <div xml:id="_toc1595">
+        <div  type="chapter">
           <head>VII. Le conseil.</head>
           <p>Le grand événement, l’événement attendu de tous avec anxiété, surtout de Richelieu, qui se croyait sûr du roi autant que l’on pouvait être sûr de Louis XIII, était la tenue d’un conseil chez la reine-mère, au palais du Luxembourg, qu’elle avait fait bâtir pendant la régence sur le modèle des palais florentins, et pour la galerie duquel Rubens avait exécuté, dix ans auparavant, les magnifiques tableaux représentant les événements les plus importants de la vie de Marie de Médicis, et qui font aujourd’hui un des principaux ornements de la galerie du Louvre.</p>
           <p>Le conseil se tenait le soir.</p>
@@ -3887,7 +3887,7 @@
           <p>– Venez vite alors. »</p>
           <p>Et la reine et son conseiller se jetèrent dans un corridor conduisant aux appartements particuliers de Marie de Médicis.</p>
         </div>
-        <div xml:id="_toc1734">
+        <div  type="chapter">
           <head>VIII. Le moyen de Vauthier.</head>
           <p>Quoiqu’il eût son appartement chez la reine-mère, c’est-à-dire au palais du Luxembourg, le roi était rentré au Louvre pour échapper aux obsessions dont il sentait bien qu’il ne pouvait manquer d’être l’objet, de la part des deux reines.</p>
           <p>Et, en effet, quoique rentré chez elle, Marie de Médicis eût écouté avec la plus grande attention et approuve le projet que lui avait exposé Vauthier, avant de recourir à ce projet elle résolut de faire une seconde tentative sur son fils.</p>
@@ -3950,7 +3950,7 @@
           <p>– Victoire ! il est chez le roi.</p>
           <p>Et, en effet, presque au même instant, surprenant Sa Majesté au moment où elle s’y attendait le moins, M. de Baradas ouvrait, sans se donner la peine de gratter selon l’étiquette, la porte du roi Louis XIII, qui jetait un cri de joie en reconnaissant son page et le recevait à bras ouverts.</p>
         </div>
-        <div xml:id="_toc1855">
+        <div  type="chapter">
           <head>IX. Le fétu de paille invisible, le grain de sable inaperçu.</head>
           <p>Tandis que toutes ces basses intrigues se nouaient contre lui, le cardinal, courbé à la lueur d’une lampe, sur une carte qu’on appelait alors la marche du royaume, carte qui, dans ses moindres détails déroulait sous les yeux la double frontière de France et de Savoie, suivait avec M. de Pontis, son ingénieur géographe et l’auteur de la carte que le cardinal avait devant lui, la marche que devait suivre l’armée, les villes ou les villages où elle devait faire halte, et marquait les chemins par lesquels les vivres nécessaires à la subsistance de trente mille hommes pouvaient arriver.</p>
           <p>La carte revue par M. d’Escures, comme nous l’avons dit, relevait avec la plus grande exactitude, vallées, montagnes, torrents, et jusqu’aux ruisseaux ; le cardinal était enchanté, c’était la première carte de cette valeur qu’il avait sous les yeux.</p>
@@ -4052,7 +4052,7 @@
           <p>Puis avec une expression de mépris impossible à rendre :</p>
           <p>– Ah ! dit-il, un Baradas !</p>
         </div>
-        <div xml:id="_toc2053">
+        <div  type="chapter">
           <head>X. La résolution de Richelieu.</head>
           <p>Le cardinal passa une nuit très agitée, comme l’avait pensé la belle Marion, qui ne se mettait en contact avec lui que dans les grandes circonstances. La nouvelle apportée par elle était grande : Le roi raccommodé avec son favori par l’entremise de Monsieur, l’ennemi acharné du cardinal. C’était une vaste porte ouverte aux conjectures fâcheuses. Aussi le cardinal examina-t-il la question sur toutes ses faces, et le lendemain, nous ne dirons pas lorsqu’il s’éveilla, mais lorsqu’il se leva, avait-il un parti arrêté d’avance pour chaque éventualité.</p>
           <p>Vers neuf heures du matin, on annonça un messager du roi. Le messager fut introduit dans le cabinet du cardinal, où celui-ci était déjà descendu. Il remit avec un profond salut au pli cacheté d’un grand sceau rouge à Son Éminence, laquelle, et sans savoir ce que la lettre contenait, lui remit, comme c’était son habitude de faire à tout courrier venant de la part du roi, une bourse contenant vingt pistoles ; le cardinal avait pour ces occasions des bourses toutes préparées dans son tiroir.</p>
@@ -4137,7 +4137,7 @@
           <p>– Puis, se retournant vers sa nièce, il ajouta :</p>
           <p>– Si, dans trois jours, le roi n’est point venu lui-même à Chaillot, dans quatre nous partons pour mon évêché de Luçon.</p>
         </div>
-        <div xml:id="_toc2213">
+        <div  type="chapter">
           <head>XI. Les oiseaux de proie.</head>
           <p>Comme on vient de le voir, le conseil donné par le duc de Savoie avait complétement réussi. « Si la campagne d’Italie est résolue malgré mon opposition, avait-il dit dans sa lettre secrète à Marie de Médicis, obtenez pour monsieur le duc d’Orléans, sous le prétexte de s’éloigner de l’objet de sa folle passion, le commandement de l’armée. Le cardinal, dont toute l’ambition est de passer pour le premier général de son siècle, ne supportera point cette honte et donnera sa démission. Une seule crainte resterait, c’est que le roi ne l’acceptât point. »</p>
           <p>Seulement, vers dix heures du matin, on ignorait encore au Louvre la décision du cardinal, et on l’attendait avec impatience ; et chose singulière, la meilleure harmonie du monde semblait régner entre les augustes personnages qui l’attendaient.</p>
@@ -4254,7 +4254,7 @@
           <p>Si le digne médecin Hérouard n’était pas mort depuis six mois, nous saurions à une cuillerée de potage et à une guigne sèche près, ce que Sa Majesté Louis XIII mangea et but à ce repas qui inaugurait l’ère réelle de sa royauté ; mais tout ce qui en est parvenu jusqu’à nous, fut qu’il dîna en tête à tête avec son favori Baradas : qu’à une heure et demie il monta en carrosse, en disant au cocher : Place loyale, hôtel de M. le cardinal ; et qu’à deux heures précises, conduit par le secrétaire Charpentier, il entrait dans le cabinet et s’asseyait dans le fauteuil du ministre disgracié, en poussant un soupir de satisfaction et en murmurant avec un sourire ces mots dont il ne connaissait ni le poids ni la portée :</p>
           <p>– Enfin ! je vais donc régner !</p>
         </div>
-        <div xml:id="_toc2438">
+        <div  type="chapter">
           <head>XII. Le roi règne.</head>
           <p>Élevé au milieu des folles dépenses de la régence, où tout l’argent de la France s’en allait en fêtes et en carrousels donnés en l’honneur du beau cavalier-servant de la reine, parvenu au pouvoir, quand la France, appauvrie par le pillage du trésor de Henri IV, à si grand’peine amassé par Sully, avait vu tout son or passer aux mains des d’Épernon, des Guise, des Condé, de tous ces grands seigneurs enfin qu’il fallait acheter à quelque prix que ce fût, pour s’en faire un bouclier contre la haine populaire, qui accusait tout haut la reine de l’assassinat de son roi, Louis XIII avait toujours vécu pauvrement, jusqu’à l’heure où il avait nommé M. de Richelieu son premier ministre. Celui-ci, par une sage administration, étudiée sur celle de Sully, jointe à un désintéressement plus grand que celui de son prédécesseur, était parvenu à remettre de l’ordre dans les finances et à retrouver ce métal que l’on croyait être la propriété de la seule Espagne, – l’or.</p>
           <p>Mais à quel prix ce dictateur du désespoir en était-il arrivé là ? Il n’y avait pas à songer à ce moyen employé en 1789, et qui n’empêcha pas la banqueroute de 1765, à taxer les nobles et le clergé. À la première proposition qu’il en eût faite, il eût été immédiatement renversé ; il lui fallut donc, et c’est là où son implacable fermeté le servit, il lui fallut l’aller chercher dans les entrailles mêmes de la France, dans le peuple, chez les pauvres. Dût le peuple aller toujours maigrissant, il lui fallait ruiner la France pour la sauver : à l’occident de l’Anglais, à l’orient et au nord de l’Autrichien, au midi de l’Espagnol.</p>
@@ -4545,7 +4545,7 @@
           <p>Puis reprenant :</p>
           <p>– Si fait, dit-il, il y a mon fou d’Angély. Il est vrai que c’est un fou !</p>
         </div>
-        <div xml:id="_toc3012">
+        <div  type="chapter">
           <head>XIII. Les ambassadeurs.</head>
           <p>Le lendemain, à dix heures précises, le roi comme il l’avait dit, était dans le cabinet du cardinal.</p>
           <p>L’étude qu’il était en train de faire, tout en l’humiliant, l’intéressait profondément.</p>
@@ -4852,7 +4852,7 @@
           <p>– Puisque M. le cardinal qui est d’Église, sacré et consacré, reçoit M<hi rend="sup">lle</hi> de Lorme, il me semble, dit-il, que je puis bien la recevoir. D’ailleurs, s’il y a péché, je me confesserai. À demain, M. Charpentier.</p>
           <p>Et le roi sorti, plus pâle, plus fatigué, plus chancelant que la veille, mais aussi avec des idées plus arrêtées sur la difficulté d’être un grand ministre et la facilité d’être un roi médiocre.</p>
         </div>
-        <div xml:id="_toc3606">
+        <div  type="chapter">
           <head>XIV. Les entr’actes de la royauté.</head>
           <p>L’inquiétude était grande au Louvre ; depuis ses séances place Royale, le roi n’avait revu ni la reine-mère, ni la reine, ni le duc d’Orléans, ni personne de sa famille ; de sorte que personne n’avait reçu de lui ni les sommes demandées, ni les bons à vue avec lesquels seuls on pouvait les toucher.</p>
           <p>De plus, le nouveau ministère Berulle et Marcillac l’Épée, constitué d’enthousiasme à la suite de la démission du cardinal, n’avait reçu aucun ordre pour se réunir et, par conséquent, n’avait encore délibéré sur rien.</p>
@@ -4997,7 +4997,7 @@
           <p rend="i">Il vaut mieux aussi se coucher</p>
           <p><hi rend="i">Ivre au lit que mort dans la tombe</hi> !</p>
         </div>
-        <div xml:id="_toc3871">
+        <div  type="chapter">
           <head>XV. Tu quoque, Baradas !</head>
           <p>Lorsque Louis XIII sortit de son oratoire, il trouva l’Angély qui, les bras croisés sur la table, la tête posée sur les bras, dormait ou faisait semblant de dormir.</p>
           <p>Il le regarda un instant avec une mélancolie profonde ; et cet esprit incomplet et égoïste, qui cependant de temps en temps était illuminé par des éclairs instinctifs du vrai et du juste, que n’avait pu complétement éteindre la mauvaise éducation qu’il avait reçue, fut pris d’une grande compassion pour ce compagnon de sa tristesse, qui s’était dévoué à lui, non pas pour l’égayer, comme faisaient les autres fous près des rois ses prédécesseurs, mais pour parcourir avec lui tous les cercles de cet enfer monotone au ciel sombre, appelé l’ennui.</p>
@@ -5238,7 +5238,7 @@
           <p>Quant à Marion, qui, en voyant le roi faire cette curieuse sortie, avait couru à la fenêtre, et, en écartant le rideau, l’avait vu s’élancer dans son carrosse, elle demeura un instant immobile après la voiture disparue ; puis, avec ce sourire malin et railleur qui n’appartenait qu’à elle :</p>
           <p>– Décidément, dit-elle, j’aurais mieux fait de venir en page.</p>
         </div>
-        <div xml:id="_toc4345">
+        <div  type="chapter">
           <head>XVI. Comment, en faisant chacun leur première sortie, Étienne Latil et le marquis de Pisani eurent la chance de se rencontrer.</head>
           <p>Nous avons dit que le cardinal s’était retiré dans sa maison de campagne de Chaillot pour laisser sa maison de la place Royale, c’est-à-dire son ministère, à Louis XIII.</p>
           <p>Le bruit de sa disgrâce s’était vite répandu dans Paris, et dans un rendez-vous que M<hi rend="sup">me</hi> de Fargis avait donné à la <hi rend="i">Barbe-Peinte</hi> au garde des sceaux Marcillac, elle lui avait appris cette grande nouvelle.</p>
@@ -5340,7 +5340,7 @@
           <p>– À l’hôtel Rambouillet, dit Pisani.</p>
           <p>– À Chaillot, dit Étienne Latil.</p>
         </div>
-        <div xml:id="_toc4544">
+        <div  type="chapter">
           <head>XVII. Le cardinal à Chaillot.</head>
           <p>Arrivé à Chaillot, le cardinal s’était trouvé à peu près dans la même situation qu’Atlas, après que celui-ci, fatigué de porter le monde, l’avait déposé pour quelques instants sur les épaules de son ami Hercule.</p>
           <p>Il respira.</p>
@@ -5455,7 +5455,7 @@
           <p>– Vous le voyez, dit le cardinal à M<hi rend="sup">me</hi> de Combalet et à Latil, en voilà déjà un qui ne s’est pas fait attendre.</p>
           <p>– Mon Dieu, dit Étienne Latil, faut-il que mon père ne m’ait pas fait apprendre la poésie !</p>
         </div>
-        <div xml:id="_toc4769">
+        <div  type="chapter">
           <head>XVIII. Mirame.</head>
           <p>Rotrou n’était pas seul.</p>
           <p>Le cardinal regarda avec curiosité ce compagnon inconnu qui le suivait le chapeau à la main, et dans cette pose inclinée qui indique l’admiration et, non la servilité.</p>
@@ -5617,7 +5617,7 @@
           <p>– Que faut-il faire pour cela ? demanda Corneille, toujours naïf.</p>
           <p>– Des vers qui ne vaillent pas mieux que ceux de M. le cardinal ! dit Rotrou.</p>
         </div>
-        <div xml:id="_toc5054">
+        <div  type="chapter">
           <head>XIX. Les nouvelles de la cour.</head>
           <p>Les cinq actes de <hi rend="i">Mirame</hi> distribués, la recommandation, faite pour le cinquième à Colletet, les collaborateurs du cardinal prirent congé de lui, moins Corneille et Rotrou, qu’il garda une partie de la nuit pour leur dicter le plan complet des deux premiers acte.</p>
           <p>Bois-Robert devait revenir dans la matinée du lendemain, et recevoir ses instructions et pour lui et pour ses deux autres compagnons, à qui il était chargé de les communiquer.</p>
@@ -5712,7 +5712,7 @@
           <p>– Le roi !</p>
           <p>– Ah ! par ma foi, murmura le cardinal, décidément, c’est un grand diplomate que ma voisine Marion Delorme.</p>
         </div>
-        <div xml:id="_toc5239">
+        <div  type="chapter">
           <head>XX. Pourquoi le roi Louis XIII était toujours vêtu de noir.</head>
           <p>Guillemot s’effaça rapidement, et le roi Louis XIII et le cardinal de Richelieu te trouvèrent face à face.</p>
           <p>– Sire, dit Richelieu en s’inclinant respectueusement, ma surprise a été si grande en apprenant que le roi descendait à la porte de mon humble maison, qu’au lieu de me précipiter comme je le devais au-devant de lui et de l’attendre au bas de l’escalier, je suis resté, ici les pieds cloués au parquet, et qu’à cette heure encore, en son auguste présence, je doute que ce soit Sa Majesté elle-même qui ait ainsi daigné descendre jusqu’à moi.</p>
@@ -5815,7 +5815,7 @@
           <p>– Sire, en échange de cet instant, Votre Majesté acceptera, je l’espère, le dévouement, de toute ma vie.</p>
           <p>– J’y compte, monsieur, dit le roi avec cette suprême majesté qu’il savait prendre dans certains moments ; et maintenant, ajouta-t-il, mon cher cardinal, oublions tout ce qui s’est passé, dédaignons toutes ces misérables intrigues de ma mère, de mon frère et de la reine, et ne nous occupons plus que de la gloire de nos armes et de la grandeur de la France.</p>
         </div>
-        <div xml:id="_toc5440">
+        <div  type="chapter">
           <head>XXI. Où le cardinal règle le compte du roi.</head>
           <p>Le lendemain, à deux heures après-midi, le roi Louis XIII, assis dans un grand fauteuil, la canne entre les jambes, son chapeau noir à plumes noires posé sur sa canne, le sourcil un peu moins froncé, le visage un peu moins pâle que d’habitude, regardait le cardinal de Richelieu assis à son bureau et travaillant.</p>
           <p>Tous deux étaient dans ce cabinet de la place Royale, où nous avons vu le roi, pendant ses trois jours de règne ; passer de si mauvaises heures.</p>
@@ -5894,9 +5894,9 @@
           <p rend="center">FIN DU TROISIÈME VOLUME</p>
         </div>
       </div>
-      <div xml:id="_toc5588">
+      <div>
         <head>Quatrième volume</head>
-        <div type="chapter" xml:id="_toc5589">
+        <div type="chapter">
           <head>Chapitre premier. L’avalanche.</head>
           <p>Au moment même où le conseil, convoqué cette fois par Richelieu, se réunissait au Louvre, c’est-à-dire vers onze heures du matin, une petite caravane, qui était partie de Doulx au point du jour, apparaissait à l’extrémité des maisons de la petite ville d’Exilles, située sur l’extrême frontière de France, et qui n’est plus séparée des États du prince de Piémont que par Chaumont, dernier bourg appartenant au territoire français.</p>
           <p>Cette caravane se composait de quatre personnes montées sur des mulets.</p>
@@ -5968,7 +5968,7 @@
           <p>– Venez doucement, dit-il à Isabelle, venez en vous appuyant au rocher, et vous, ma chère madame de Coëtman, suivez Isabelle ; et nous, Galaor, courons : peut-être est-il possible de sauver ce malheureux.</p>
           <p>Et s’élançant avec l’agilité d’un montagnard, le comte de Moret, suivi de Galaor, se précipita vers l’endroit que lui indiquait le doigt de la femme pâle, qui n’était autre, comme nous venons de le dire, que M<hi rend="sup">me</hi> de Coëtman, que le cardinal de Richelieu, si confiant qu’il fût dans le respect du comte de Moret et dans la chasteté d’Isabelle, avait jugé à propos, ne fût-ce que par concession aux convenances mondaines, de leur donner pour compagne de voyage.</p>
         </div>
-        <div xml:id="_toc5715">
+        <div  type="chapter">
           <head>II. Guillaume Coutet.</head>
           <p>Arrivés à l’endroit indiqué, les deux jeunes gens, en s’appuyant l’un à l’autre, jetèrent avec terreur le regard dans le précipice.</p>
           <p>Ils ne virent rien d’abord, leurs yeux se portaient trop loin.</p>
@@ -6064,7 +6064,7 @@
           <p>Le comte de Moret sortit, et un quart d’heure après, maître Germain enfourchait son cheval et prenait la route de Gravière.</p>
           <p>Une heure plus tard, il rentrait à son hôtel du <hi rend="i">Genévrier d’or</hi>, ramenant en croupe Marie Coutet, frère de Guillaume Coutet.</p>
         </div>
-        <div xml:id="_toc5902">
+        <div  type="chapter">
           <head>III. Marie Coutet.</head>
           <p>Marie Coutet était un jeune homme de vingt-six ans, comme l’avait indiqué son frère en lui donnant trois ou quatre ans de plus que le comte de Moret ; il avait la beauté mâle et la force virile des montagnards ; sa figure franche indiquait un cœur loyal ; sa taille bien prise, ses épaules larges, les proportions vigoureuses de ses jambes et de ses bras indiquaient un corps nerveux.</p>
           <p>Il avait été mis pendant la route au courant de la situation. Il savait que son frère, emporté par une avalanche, avait eu le bonheur de s’accrocher, en tombant, à un sapin et avait été sauvé par un voyageur qui passait.</p>
@@ -6135,7 +6135,7 @@
           <p>Une heure après, les deux jeunes gens étaient au village de Gravière, et le lendemain, à sept heures, le comte de Moret présentait à Jean Miroux la lettre de Guillaume Coutet et était admis, sans contestation aucune, au nombre des travailleurs, en remplacement de Marie Coutet.</p>
           <p>Comme l’avait prévu Guillaume, Jean Miroux demanda quelques détails sur l’accident arrivé à son cousin, et que Jaquelino était parfaitement en état de lui donner.</p>
         </div>
-        <div xml:id="_toc6037">
+        <div  type="chapter">
           <head>IV. Pourquoi le comte de Moret avait été travailler aux fortifications du pas de Suze.</head>
           <p>Comme on le devine bien, ce n’était point pour sa propre satisfaction et pour son instruction particulière que le comte de Moret avait pris l’habit et la place d’un paysan piémontais et était allé travailler pendant un jour comme un simple manœuvre aux fortifications du pas de Suze.</p>
           <p>Non, dans la conversation que le comte de Moret avait eue avec le cardinal de Richelieu, celui-ci avait découvert des horizons politiques dignes du fils de Henri IV, et le fils de Henri IV, ayant senti s’épancher la bienveillance du grand ministre à son égard, ayant résolu de la mériter afin qu’elle lui arrivât non point comme une faveur, mais comme un droit.</p>
@@ -6192,7 +6192,7 @@
           <p>Au reste, les voyageurs étaient bien armés ; chacun d’eux avait, outre les couteaux de chasse dont nous avons déjà parlé, et avec l’un desquels nous avons vu Galaor couper un térébinthe et le transformer en traverse d’échelle, chacun d’eux avait dans les fontes de sa mule une longue paire de pistolets à roues comme on les faisait à cette époque. Guillaume, de son côté, portait à sa ceinture une arme qui tenait le milieu entre le couteau de chasse et le poignard, et en bandoulière une de ces carabines comme, en effet, on en faisait déjà venir du Tyrol pour la chasse au chamois.</p>
           <p>On fit halte à la porte. Guillaume descendit seul et entra.</p>
         </div>
-        <div xml:id="_toc6145">
+        <div  type="chapter">
           <head>V. Une halte dans la montagne.</head>
           <p>Guillaume sortit au bout d’un instant, mit son doigt sur sa bouche, prit sa mule par la bride et fit signe aux voyageurs de le suivre.</p>
           <p>On contourna la chaumière, on entra dans une espèce de cour, et l’on conduisit les mules sous un hangar où se trouvaient déjà une douzaine de ces animaux.</p>
@@ -6253,7 +6253,7 @@
           <p>– J’y vais.</p>
           <p>Cinq minutes après, les quatre voyageurs et leur guide quittaient le plus secrètement et surtout le moins bruyamment possible l’auberge des contrebandiers et reprenaient leur voyage un instant interrompu.</p>
         </div>
-        <div xml:id="_toc6262">
+        <div  type="chapter">
           <head>VI. Les âmes et les étoiles.</head>
           <p>En sortant de la cour, Guillaume fit remarquer au comte une longue traînée de sang qui rougissait la neige et qui disparaissait à l’endroit où le cadavre été précipité.</p>
           <p>Le fait n’avait point besoin de commentaires ; ils échangèrent un regard et posèrent instinctivement la main sur la crosse de leurs pistolets.</p>
@@ -6344,7 +6344,7 @@
           <p>Les deux hommes se joignirent à cinquante pas environ des voyageurs, échangèrent rapidement quelques paroles et revinrent à grands pas vers eux.</p>
           <p>– Alerte, alerte, ami Jaquelino, dit Guillaume, affectant exprès vis-à-vis du comte un air de familiarité qui venait de donner au contrebandier son ami le change sur la position sociale des voyageurs – position sociale qu’il avait parfaitement devinée – nous sommes poursuivis, et il s’agit de trouver un endroit où nous cacher, pour laisser passer ceux qui nous poursuivent.</p>
         </div>
-        <div xml:id="_toc6439">
+        <div  type="chapter">
           <head>VII. Le pont de Giavon.</head>
           <p>Voici en effet ce qui s’était passé à l’auberge des contrebandiers, après que le comte de Moret, Galaor et Guillaume Coutet furent sortis de la salle commune.</p>
           <p>La porte donnant sur la route de la montagne s’était rouverte, et l’on avait vu reparaître la tête de l’Espagnol qui s’était enfui après avoir tué l’Allemand.</p>
@@ -6406,7 +6406,7 @@
           <p>Mais rendons-lui cette justice de dire que ce fut la reconnaissance, et non cette certitude, qui lui fit insister pour accompagner les voyageurs jusqu’au bout de leur voyage. Au reste, ce fut chose facile à obtenir. Si Guillaume Coutet avait voué au comte la reconnaissance que doit l’homme à celui qui lui a sauvé la vie, Antoine de Bourbon éprouvait pour lui cette profonde sympathie et cette douce tendresse que ressent de son côté le sauveur pour l’homme auquel il l’a sauvée.</p>
           <p>Après des incidents divers, mais qui, n’ayant pas la gravité de ceux que nous avons racontés, n’auraient pas un assez puissant intérêt pour mériter l’attention du lecteur, après vingt-sept jours de voyage et de fatigue, on arriva enfin à Mantoue, par Tordi, Nogaro et Castellarez.</p>
         </div>
-        <div xml:id="_toc6558">
+        <div  type="chapter">
           <head>VIII. Le serment.</head>
           <p>Aucune lettre, aucun courrier, aucun message quelconque n’avait annoncé au baron de Lautrec l’arrivée de sa fille. Il en résulta que, quoi qu’il passât pour un père médiocrement tendre, les premiers moments du retour furent donnés tout entiers à l’effusion de la double tendresse paternelle et filiale.</p>
           <p>Ce ne fut qu’au bout d’un instant qu’il put s’occuper des compagnons de voyage de sa fille et lire la lettre que lui adressait le cardinal de Richelieu.</p>
@@ -6453,7 +6453,7 @@
           <p>– Madone vénérée et toute-puissante, dit-elle, écoutez le serment que je vous fais à mon tour. Je jure ici à votre autel, et par vos pieds divins que j’embrasse, qu’à partir d’aujourd’hui j’appartiens corps et âme à celui qui vient de passer cet anneau à mon doigt, et que, fût-il mort, ou, ce qui est bien pis, manquât-il à son serment, je ne serai l’épouse de personne, mais seulement celle de votre divin Fils.</p>
           <p>Un baiser éteignit cette dernière parole sur les lèvres d’Isabelle, et la sainte madone sourit du baiser du comte comme elle avait souri de l’exclamation d’Isabelle, car elle se souvenait qu’elle s’était appelée Notre-Dame-des-Amours avant de s’appeler Notre-Dame-des-Anges !</p>
         </div>
-        <div xml:id="_toc6643">
+        <div  type="chapter">
           <head>IX. Le journal de M. De Bassompierre.</head>
           <p>Comme l’avait appris le duc de Mantoue par l’intermédiaire de l’ambassadeur, le cardinal et le roi avaient quitté Paris le 4 janvier, et le jeudi 15 ils avaient dîné à Moulins et soupé à Varenne, qu’il ne faut pas confondre avec cet autre Varennes du département de la Meuse, que l’arrestation du roi a rendu célèbre.</p>
           <p>Pour toute entrée en campagne, nous n’avons de guide fidèle que le journal de M. de Bassompierre ; aussi est-ce lui que nous allons suivre dans la partie historique de notre récit.</p>
@@ -6511,7 +6511,7 @@
           <p>– Au point de vue chrétien et comme ministre du Seigneur, je hais la guerre ; mais au point de vue politique et comme ministre de France, je crois parfois la guerre, non pas une bonne chose, mais une chose nécessaire. La France est dans son droit, elle le fera respecter. Lorsque deux États en viennent aux mains, malheur à celui qui se fait le champion du mensonge et de la perfidie. Dieu nous voit, Dieu nous jugera.</p>
           <p>Et, cette fois, le cardinal salua le prince, lui faisant comprendre qu’une plus longue conversation serait inutile, et que son parti de marcher sur Cazal, quels que fussent les obstacles que l’on multiplierait sur sa route était irrévocablement pris.</p>
         </div>
-        <div xml:id="_toc6754">
+        <div  type="chapter">
           <head>IX. Où le lecteur retrouve un ancien ami.</head>
           <p>À peine Victor-Amédée était sorti, que le cardinal s’approcha d’une table et écrivit la lettre suivante :</p>
           <p>« Sire,</p>
@@ -6598,7 +6598,7 @@
           <p>– Je travaille à la grandeur de Votre Majesté, dit M. le cardinal paraissant, et M. de Pontis m’aide de tout son pouvoir dans cette glorieuse besogne.</p>
           <p>Et le cardinal fit en effet entrer le roi dans sa chambre, où il trouva un grand feu allumé pour le réchauffer et une immense carte du pays, dressée par M. de Pontis, étendue sur une table.</p>
         </div>
-        <div xml:id="_toc6923">
+        <div  type="chapter">
           <head>X. Où monsieur le cardinal trouve le guide dont il avait besoin.</head>
           <p>Un des grands mérites du cardinal fut, non pas de donner au roi Louis XIII des vertus qu’il n’avait pas, mais de lui faire croire qu’il les avait perdues.</p>
           <p>Paresseux et languissant, il lui fit croire qu’il était actif ; timide et défiant, il lui fit croire qu’il était brave ; cruel et sanguinaire, il lui fit croire qu’il était juste.</p>
@@ -6664,7 +6664,7 @@
           <p>Latil s’inclina et sortit.</p>
           <p>Cinq minutes après, le comte de Moret entrait, et, sous l’humble habit de montagnard qui le cachait, chacun put reconnaître, à cette ressemblance avec son auguste père, ressemblance qui faisait tant envie au roi Louis XIII, l’illustre fils de Henri IV arrivant à l’instant même de Mantoue, envoyé par la Providence comme le disait le cardinal de Richelieu.</p>
         </div>
-        <div xml:id="_toc7050">
+        <div  type="chapter">
           <head>XI. Le pas de Suze.</head>
           <p>Le comte de Moret, grâce à la route que nous lui avons vu suivre pour traverser avec sécurité le Piémont, et qu’il avait étudié avec une attention toute particulière, pouvait à la fois être un guide fidèle et un intrépide officier.</p>
           <p>En effet, à peine la question eut-elle été exposée que, prenant un crayon, il traça sur la carte dressée par M. de Pontis ce sentier qui conduisait de Chaumont à l’auberge des contrebandiers et de l’auberge des contrebandiers au pont de Giavon, puis il s’arrêta pour raconter par quel hasard il avait été forcé de changer de route pour échapper aux bandits espagnols, et comment ce changement de route l’avait conduit à cette portion de sentier de laquelle on pouvait se laisser glisser sur les remparts de Suze adossées à la montagne.</p>
@@ -6742,7 +6742,7 @@
           <p>« Nous demandons dix minutes de repos pour nos hommes, après quoi le bal recommencera. »</p>
           <p>Et, en effet, après dix minutes de repos, les trompettes sonnèrent, les tambours battirent de nouveau, et les deux ailes, en colonnes serrées, marchèrent sur la demi-lune.</p>
         </div>
-        <div xml:id="_toc7201">
+        <div  type="chapter">
           <head>XII. Où il est prouvé qu’un homme n’est jamais sûr d’être pendu, eût il déjà la corde au cou.</head>
           <p>Les approches étaient au pouvoir des Français ; mais restait le dernier retranchement, entouré de soldats, hérissé de canons, défendu par le fort de Montabor, bâti au sommet d’un rocher inaccessible : on n’abordait le fort que par un escalier sans rampe, dont on ne pouvait gravir les marches qu’une à une.</p>
           <p>On avait depuis longtemps laissé en arrière les canons, que l’on ne pouvait traîner ni dans le fond de la vallée ni dans le sommet de la montagne.</p>
@@ -6806,7 +6806,7 @@
           <p>– C’est bien, mon ami, dit le comte de Moret ; maintenant il faut que, dans une heure, nous soyons à Suze.</p>
           <p>Et là troupe se remit en marche.</p>
         </div>
-        <div xml:id="_toc7324">
+        <div  type="chapter">
           <head>XIII. La plume blanche.</head>
           <p>On connaît le chemin qu’avait à suivre le comte de Moret ; c’était le même qu’il avait déjà suivi avec Isabelle de Lautrec et la dame de Coëtman.</p>
           <p>Le silence le plus sévère était recommandé, et l’on n’entendait d’autre bruit que celui de la neige s’écrasant sous les pieds des soldats.</p>
@@ -6893,7 +6893,7 @@
           <p>Puis il ôta de son propre chapeau, qui était le même que lui avait prêté le duc de Montmorency, une des trois plumes blanches du panache et la donna au comte de Moret avec l’agrafe de diamant qui les retenait.</p>
           <p>Le même jour, vers cinq heures du soir, le roi Louis XIII fit son entrée à Suze après avoir reçu des autorités les clés de la ville sur un plat d’argent.</p>
         </div>
-        <div xml:id="_toc7493">
+        <div  type="chapter">
           <head>XIV. Ce que pense l’Angély des compliments du duc de Savoie.</head>
           <p>Le roi Louis XIII était ivre de joie ; c’était la seconde fois en moins d’une année qu’il méritait le titre de <hi rend="i">Victorieux</hi>, et qu’il faisait son entrée triomphale dans une ville soumise par la force de ses armes.</p>
           <p>Ainsi, tout ce que lui avait promis le cardinal s’était accompli, et la dernière chose aussi exactement que les autres, car il lui avait promis que, le 7 mars, il coucherait à Suze, et il y couchait.</p>
@@ -6965,7 +6965,7 @@
           <p>– Aux deux ou trois mille imbéciles qui se sont fait tuer pour qu’il nous les fît.</p>
           <p>L’Angély, dans sa réponse au roi, avait admirablement résumé la situation.</p>
         </div>
-        <div xml:id="_toc7632">
+        <div  type="chapter">
           <head>XV. Un chapitre d’histoire.</head>
           <p>Après chaque guerre, si longue qu’elle soit, même après la guerre de trente ans, la paix se signe, et une fois la paix signée, les rois qui se sont fait la guerre s’embrassent, sans qu’il soit le moins du monde question des milliers d’hommes qui, sacrifiés à ces querelles momentanées, pourrissent sur les champs de bataille, des milliers de veuves qui pleurent, des milliers de mères qui se tordent les mains, des milliers d’enfants qui s’habillent de deuil.</p>
           <p>Il est vrai que, grâce à la bonne foi de Charles-Emmanuel, on pouvait être sûr que cette nouvelle paix serait rompue à la première occasion que trouverait le duc de Savoie de la rompre avantageusement.</p>
@@ -7067,7 +7067,7 @@
           <p>Il y avait bien la possibilité que Gaston profitât de l’absence du roi pour nouer quelque conspiration contre le cardinal et même contre le roi ; mais, une fois Louis XIII près de lui, Richelieu ne craignait rien, et il connaissait assez Gaston pour être sûr qu’à la vue d’une armée commandée par le cardinal et par le roi en personne, non-seulement il abandonnerait alliés et complices, mais encore les livrerait quels qu’ils fussent, comme il avait fait jusqu’alors, contre son pardon et une augmentation de revenus.</p>
           <p>Cette revue de l’Europe faite, le cardinal comprit que tous les dangers réels étaient dans le lointain et, plus tranquille, se tourna du côté de Turin et essaya de voir, malgré la distance, si Montmorency y suivait exactement ses instructions.</p>
         </div>
-        <div xml:id="_toc7831">
+        <div  type="chapter">
           <head>XVII. Deux anciens amants.</head>
           <p>Le duc de Montmorency, sans lui faire part du vrai but de son voyage, avait offert à son ami le comte de Moret de l’accompagner à Turin, et celui ci avait accepté avec empressement, comme un moyen de distraction.</p>
           <p>L’importance des événements que nous racontons et qui sont de grands faits historiques nous empêche parfois de suivre jusqu’au fond des cœurs de nos personnages le retentissement joyeux ou triste qu’apporte l’accomplissement de ces événements. C’est ainsi que nous avons raconté l’investissement de la ville de Mantoue par les Impériaux, sans avoir le temps de nous préoccuper du trouble que cet investissement jetait dans le cœur du fils de Henri IV.</p>
@@ -7101,7 +7101,7 @@
           <p>Les huit jours que passèrent les deux ambassadeurs, soit à Turin soit au château de Rivoli, s’écoulèrent en dîners, en bals, en cavalcades et en fêtes de toute espèce, dont le résultat fut que le cardinal et le prince Victor-Amédée se verraient au château de Rivoli, ou, si mieux aimait le cardinal, au village de Bussolino.</p>
           <p>Le cardinal choisit le village de Bussolino ; comme il n’était qu’à une heure de Suze, c’était le prince de Piémont, qui venait à lui, et non lui qui allait au prince de Piémont.</p>
         </div>
-        <div xml:id="_toc7894">
+        <div  type="chapter">
           <head>XVIII. Le cardinal entre en campagne.</head>
           <p>La discussion fut vive, chacun des deux avait affaire à forte partie.</p>
           <p>Charles-Emmanuel souhaitait moins la paix, pour lui qu’une guerre bien acharnée entre la France et la maison d’Autriche, guerre pendant laquelle il serait demeuré neutre jusqu’à ce qu’il trouvât l’occasion d’obtenir de grands avantages en se déclarant pour l’une ou l’autre couronne.</p>
@@ -7179,7 +7179,7 @@
           <p>– En tout cas, pars, dit le cardinal, et si tu échoues, eh bien, ce ne sera pas à toi que j’en voudrai.</p>
           <p>Dix minutes après, une petite troupe de cinquante cavaliers, conduite par Étienne Latil, passait sous les fenêtres du cardinal, qui soulevait sa jalousie pour les regarder partir.</p>
         </div>
-        <div xml:id="_toc8045">
+        <div  type="chapter">
           <head>XIX. Buisson creux.</head>
           <p>Quoiqu’il sût bien que d’un moment à l’autre la guerre pouvait lui être déclarée par un ennemi qui lui avait appris qu’il n’était pas de ceux que l’on méprise, le duc, par un effet de son caractère fanfaron, donnait une grande fête au château de Rivoli, au moment même où son fils Victor-Amédée négociait avec Richelieu au village de Bussolino.</p>
           <p>Les plus jolies femmes de Turin, les plus élégants gentilshommes de la Savoie et du Piémont étaient, dans cette soirée du 15 mars, réunis au château de Rivoli, dont les fenêtres splendidement illuminées, dégorgeaient sur ses quatre faces des flots de lumière.</p>
@@ -7259,7 +7259,7 @@
           <p>Et, saluant la princesse Christine avec une courtoisie que ceux qui ne le connaissaient pas pouvaient être étonnés de trouver dans un capitaine d’aventure :</p>
           <p>– Allons, dit-il en rejoignant ses hommes, nous avons été prévenus, comme je m’en doutais, et nous avons fait buisson creux !</p>
         </div>
-        <div xml:id="_toc8200">
+        <div  type="chapter">
           <head>XX. Où le comte de Moret se charge de faire entrer un mulet et un million dans le fort de Pignerol.</head>
           <p>Richelieu, en apprenant le résultat de l’expédition de Latil, fut furieux. Comme Latil, il ne fit aucun doute que le duc de Savoie n’eût été prévenu.</p>
           <p>Mais par qui pouvait-il avoir été prévenu ?</p>
@@ -7328,7 +7328,7 @@
           <p>C’était le comte de Moret le plus jeune, par conséquent c’était à lui de parler le dernier. Mais, il faut le dire, personne ne comptait guère sur lui, lorsqu’au grand étonnement de tous il se leva et dit en saluant le cardinal :</p>
           <p>– Que Votre Éminence tienne le mulet et le million prêts, d’ici à trois jours je me charge de les faire entrer.</p>
         </div>
-        <div xml:id="_toc8332">
+        <div  type="chapter">
           <head>XXI. Le frère de lait.</head>
           <p>Le lendemain du jour où le conseil avait été tenu au château de Rivoli, un jeune paysan de vingt-quatre à vingt-cinq ans, vêtu comme les montagnards de la vallée d’Aoste et baragouinant le patois piémontais, se présentait à la porte du fort de Pignerol sous le nom de Gaëtano, vers huit heures du soir.</p>
           <p>Il se donnait pour le frère de la femme de chambre de la comtesse d’Urbain, et demandait la signora Jacinta.</p>
@@ -7430,7 +7430,7 @@
           <p>Celle-ci était porteur de la capitulation, datée du surlendemain, afin de donner au cardinal le temps de mettre le siége devant la forteresse.</p>
           <p>La garnison avait vie et bagages sauvés.</p>
         </div>
-        <div type="chapter" xml:id="_toc8531">
+        <div type="chapter">
           <head>Chapitre XXII. L’aigle et le renard.</head>
           <p>Le surlendemain, le cardinal de Richelieu entrait dans le fort de Pignerol juste, au moment où Charles-Emmanuel sortait de Turin pour venir le secourir.</p>
           <p>Mais, à trois lieues de Turin, ses éclaireurs lui annoncèrent qu’un corps de huit cents hommes à peu près venait à sa rencontre avec les bannières savoyardes.</p>
@@ -7550,7 +7550,7 @@
           <p>– Va le chercher où il est et dis-lui, pour le décider à venir sans retard, que c’est lui que je charge de porter à Fontainebleau la nouvelle de la prise de Pignerol.</p>
           <p>Latil s’inclina et sortit.</p>
         </div>
-        <div xml:id="_toc8764">
+        <div  type="chapter">
           <head>XXII. L’aurore.</head>
           <p>Comme tiens l’avons dit dans un de nos précédents chapitres, tourmenté des insistances de sa mère, tremblant d’avoir fait son frère trop puissant par les dernières faveurs qu’il lui avait accordées, cachant que la reine Anne, malgré la défense qu’il lui en avait faite, continuait à voir l’ambassadeur d’Espagne et à conspirer avec lui, le roi Louis XIII, loin du cardinal c’est-à-dire loin de l’âme politique, était tombé dans une mélancolie que rien ne pouvait chasser.</p>
           <p>Et ce qui l’énervait surtout dans cette lutte incessante, c’était de comprendre instinctivement, grâce à ce rayon à l’intelligence morale que Dieu avait mise en lui, que Richelieu était plus nécessaire au salut de l’État que lui même ; et cependant tout ce monde qui l’entourait, à part l’Angély, son fou, et Saint Simon, qu’il avait fait son grand écuyer, on s’était déclaré contre l’homme qu’il tenait pour indispensable, on conspirait sourdement contre lui.</p>
@@ -7655,7 +7655,7 @@
           <p>– La trouvez-vous assez belle, madame ? demanda la Fargis.</p>
           <p>– Trop peut-être ! répondit la reine.</p>
         </div>
-        <div xml:id="_toc8969">
+        <div  type="chapter">
           <head>XXIV. Le billet et les pincettes.</head>
           <p>Et, en effet, M<hi rend="sup">lle</hi> Henriette de Hautefort était merveilleusement belle. C’était une blonde du Midi que, pour son teint rose et ses cheveux rutilants, comme l’avait dit M<hi rend="sup">me</hi> de Fargis, on l’appelait l’<hi rend="i">Aurore.</hi></p>
           <p>C’était Vaultier qui l’avait découverte dans un voyage en Périgord, et alors, en ayant conçu la possibilité par ces soins d’un jour que le roi avait donnés à M<hi rend="sup">lle</hi> de Lautrec, il avait eu l’idée de rendre sérieusement amoureux ce malade saigné à blanc, ce roi fantôme.</p>
