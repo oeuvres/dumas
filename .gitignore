@@ -2,3 +2,5 @@
 *.doc
 *.odt#
 *.tmp
+
+import.xml
